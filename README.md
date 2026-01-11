@@ -73,27 +73,39 @@ Outcome: The program quickly became a repeatable, steady source of high-quality 
 
 <img width="710" height="645" alt="image" src="https://github.com/user-attachments/assets/94f4a6ec-79c2-4f82-87ee-8f2b64295585" />
 
-Finally, we examined the basket itself. Sharing shouldn’t be static — it should be playful and rewarding 🥳.
+Finally, we looked at the basket itself 🛒. Why just share a static link when sharing could be playful, engaging, and rewarding? This led to Weeebates, our gamified post-purchase sharing program.
 
-Mechanic: Post-purchase, users select items to share. Friends click “chop chop” ✂️ links to help, earning points 🎯 that convert into discounts for the sharer. The points are randomized, creating a mini-lottery game 🎰.
+Mechanic: After checkout, users select items from their basket to share. Friends click “chop chop” ✂️ links to help, earning points 🎯 that convert into discounts for the sharer. Points are randomized, creating a mini-lottery game 🎰, making every share feel exciting and social.
+But where to srpead out the program? We started by asking: where do our users hang out naturally? 
 
-Data-driven execution:
+The answer was clear: Facebook groups 👥. These communities were active, social, and engaged, the perfect place to amplify sharing behavior.
 
-Measured shares per order 🔄, clicks 🖱️, and follow-buy conversion 💹
+Step 1 – Build the community from scratch 
+We launched official Weee! groups and seeded them with early adopters, advocates, and super-users.
 
-Optimized item selection, timing ⏰, and reward allocation for maximum engagement
+Step 2: Activate members via multiple channels
+We used in-app notifications and email campaigns to invite users to join the groups. The combination ensured that high-intent users discovered the community and engaged immediately.
 
-Observed community growth 🌐, including 40k+ members in Facebook groups 👥
+Step 3 – Let it grow organically 
+Once the group reached critical mass, users started sharing their baskets. The network effect kicked in: active users invited friends, discussions became lively, and engagement scaled without heavy paid acquisition.
 
+<img width="1231" height="153" alt="image" src="https://github.com/user-attachments/assets/c356cdbd-ed4d-4f46-a4c2-3886bc856a24" />
+
+<img width="1252" height="190" alt="image" src="https://github.com/user-attachments/assets/a76344a0-aec4-4980-b879-82159e79fe56" />
+
+Data-driven execution: Measured shares per order, clicks , and follow-buy conversion 💹
 Outcome: Sharing became habitual. Users actively shared baskets, friends joined, sellers gained incremental sales 💵, and the community became more engaged and sticky 🏆.
 
-The Growth Flywheel 🔁
+<img width="703" height="665" alt="image" src="https://github.com/user-attachments/assets/c4acc9f4-e189-45a1-a136-80b2d3ec2c20" />
+
+
+**The Growth Flywheel 🔁**
 
 By designing three complementary sharing mechanisms, we created a self-reinforcing growth loop:
 
-More shares 🗣️ → More users 🆕 → More orders 🛒 → More engagement 💬 → Repeat 🔄
+->> More shares 🗣️ → More users 🆕 → More orders 🛒 → More engagement 💬 → Repeat 🔄
 
-Incentives alone weren’t enough. By designing natural, social, and rewarding experiences 🎯, users shared because it was fun and valuable — not because we told them to.
+Incentives alone weren’t enough. By designing natural, social, and rewarding experiences, users shared because it was fun and valuable — not because we told them to.
 
 
 **Key Takeaways ✨**
@@ -104,6 +116,6 @@ Incentives alone weren’t enough. By designing natural, social, and rewarding e
 
 💹 Gamification can turn mundane actions (sharing a basket) into repeatable, scalable engagement 
 
-Data is essential at every step — from identifying advocates to validating follow-buy conversions
+🎯 Data is essential at every step — from identifying advocates to validating follow-buy conversions
 
-When sharing feels natural, fun 🎉, and rewarding 🏆, users help each other — and growth happens organically.
+When sharing feels natural, fun, and rewarding, users help each other — and growth happens organically.
